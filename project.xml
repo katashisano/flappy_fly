@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Flappy Fly" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Flappy Fly" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="random" />
+	
+	<assets path="Assets" />
+
+	<window width="400" height="650" fps="60" background="73BBFF"  />
+	
+</project>
